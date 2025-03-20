@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\Без патерна\\WpfApp1\\WpfApp1.sln",
+    "projects": [
+      "WpfApp1.csproj"
+    ]
+  }
+}
